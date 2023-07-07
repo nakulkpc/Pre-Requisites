@@ -50,6 +50,8 @@ Additional commands
 2. **Text Editing**:
    - **nano**: A simple command-line text editor.
      - Example: `nano file.txt` (open a file for editing in Nano)
+   - **vim**: A text editor.
+      - Example: `vim file_name.txt`(opens a file in Vim)
 
 3. **Process Monitoring**:
    - **htop**: Interactive process viewer and system monitor.
